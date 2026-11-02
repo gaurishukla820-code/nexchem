@@ -120,3 +120,9 @@ font-size: 21px;
     text-decoration: none;
     font-size: 14px;
 }
+.chem-symbol {
+    font-size: 38px;
+    color: #38bdf8;
+    margin-bottom: 25px;
+    opacity: 0.85;
+}
