@@ -4,11 +4,11 @@
   box-sizing: border-box;
 }
 html {
-  scroll--behaviour: smooth;
+  scroll-behavior: smooth;
 }
 body {
   background: #080d19;
-  colour: #e2e8f0;
+  color: #e2e8f0;
   font-family: arial, sans-serif;
   line-height: 1.6;
 }
@@ -23,7 +23,7 @@ header {
   font-size: 25px;
   font-weight: bold;
   letter-spacing: 4px;
-  color: #38bdf8:
+  color: #38bdf8;
 }
 nav {
   display: flex;
@@ -35,7 +35,7 @@ nav a {
   font-size: 13px;
   transition: 0.3s;
 }
-nav a: hover {
+nav a:hover {
   color:#38bdf8;
 }
 .hero {
@@ -46,14 +46,14 @@ nav a: hover {
   align-items: center;
   text-align: center;
   padding: 90px 10%;
-  background: radial-gradiant (
-    ellipse at 50% 40%
-  rgba( 56, 189, 248, 0.09),
+  background: radial-gradient(
+    ellipse at 50% 40%,
+  rgba(56, 189, 248, 0.09),
     transparent 65%
-  ) ;
+  );
 }
 .tagline {
-  color: #38bdf8
+  color: #38bdf8;
   font-size: 11px;
   letter-spacing: 4px;
   margin-bottom: 25px;
@@ -70,7 +70,7 @@ nav a: hover {
   max-width: 620px;
   color: #94a3b8;
   font-size: 16px;
-  line-length: 1.9; 
+  line-height: 1.9; 
 }
 .hero-buttons {
     display: flex;
